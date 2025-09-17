@@ -1,8 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1757973365" />
-    <testcase name="run_uvm" classname="tb_adder32" file="/home/baiquni/hdl_ws/projects/mrisc32_core/sim/tb_adder32.py" lineno="242" time="0.011084318161010742" sim_time_ns="0.001" ratio_time="0.09021754748230841">
-      <failure message="Test failed with RANDOM_SEED=1757973365" />
-    </testcase>
-  </testsuite>
-</testsuites>

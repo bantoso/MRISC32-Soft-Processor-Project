@@ -1,8 +1,8 @@
 SIM ?= verilator
 TOPLEVEL_LANG ?= verilog
-EXTRA_ARGS += --sv --trace --coverage
+EXTRA_ARGS += --sv --trace
 
-VERILOG_SOURCES = $(CURDIR)/adder32.sv
+VERILOG_SOURCES = $(PWD)/adder32.sv
 TOPLEVEL = adder32
 MODULE  = tb_adder32
 
