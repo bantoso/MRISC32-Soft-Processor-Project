@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1758237848" />
+    <testcase name="run_uvm" classname="tb_adder32" file="/home/baiquni/hdl_ws/projects/mrisc32_core/sim/tb_adder32.py" lineno="203" time="0.2129216194152832" sim_time_ns="308.001" ratio_time="1446.546390384499" />
+  </testsuite>
+</testsuites>
