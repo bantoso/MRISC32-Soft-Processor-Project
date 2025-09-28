@@ -1,7 +1,7 @@
 # MRISC32 Soft Processor Core
 
 This project implements and verifies components of the [MRISC-A1 RISC-V processor](https://github.com/mrisc32/mrisc32-a1)
- in SystemVerilog with a Cocotb + uvm testbench framework.
+ in SystemVerilog with a Cocotb + PyUVM testbench framework.
 
 The current focus is on verifying the 32-bit adder (adder32) module and implementing different coverage tests, and creating a modular library to be used on other components of the processor.
 
