@@ -34,3 +34,7 @@ The current focus is on verifying the 32-bit adder (adder32) module and implemen
 ## 🚀 Goal
 
 Develop a fully functional pipelined processor implementing the complete MRISC32 ISA, with reusable verification components and libraries that can be applied across future modules and projects.
+
+## License
+This project is licensed under the Apache License 2.0 — see the [LICENSE](https://github.com/bantoso/MRISC32-Soft-Processor-Project/blob/main/LICENSE) file for details.
+
